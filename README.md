@@ -35,5 +35,6 @@ Enter text into the input field.
 Click the "Check" button to see if the text is a palindrome.
 The result will be displayed below the input field.
 
-Acknowledgments
+**Acknowledgments**
+
 Inspiration from freeCodeCamp.
